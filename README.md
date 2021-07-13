@@ -1,4 +1,4 @@
-# Next.js Project
+# Next.js - The React Framework
 
 ### Run the development server:
 
