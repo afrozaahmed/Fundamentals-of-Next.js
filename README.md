@@ -1,4 +1,4 @@
-# Next.js Course Project
+# Next.js Project
 
 ### Run the development server:
 
